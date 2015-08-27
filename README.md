@@ -1,1 +1,3 @@
-# blogo-editor
+# Blogo web editor
+
+The best web editor.
